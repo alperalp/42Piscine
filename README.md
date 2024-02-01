@@ -11,3 +11,5 @@ For clarification, here's a breakdown of the Rush and BSQ tasks:
 - **Rush00:** Print the square pattern.
 - **Rush01:** Solve the skyscraper puzzle.
 - **BSQ:** Find the biggest square in the map.
+
+In conclusion, this test has advanced our hard skills in C programming, GIT, and Unix. We successfully tackled challenges such as rewriting standard C functions, including the complex Rush and BSQ tasks. Additionally, the collaborative nature of the projects at École 42 improved our teamwork and collaboration skills.
